@@ -1,5 +1,6 @@
 # toDo
 Тудулист на React
+Использовались Реакт хуки useState, useEffect, useContext
 В каталоге проекта вы можете запустить:
 # запуск 
 # npm start
@@ -10,6 +11,7 @@
 
 # toDo
 Tudulist on React
+Used React hooks useState, useEffect, useContext
 In the project directory, you can run:
 # npm start
 
