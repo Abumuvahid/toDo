@@ -1,4 +1,13 @@
 # toDo
+Тудулист на React
+В каталоге проекта вы можете запустить:
+# запуск нпм
+
+Запускает приложение в режиме разработки.
+Откройте http://localhost:3000, чтобы просмотреть его в браузере.
+
+
+# toDo
 Tudulist on React
 In the project directory, you can run:
 # npm start
